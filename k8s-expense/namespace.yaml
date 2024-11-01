@@ -1,0 +1,7 @@
+kind: apiVersion: v1
+kind: Namespace
+metadata:
+  name:  expense
+  lable:
+    project: expense
+    environment: dev
